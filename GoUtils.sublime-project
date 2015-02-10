@@ -1,0 +1,9 @@
+{
+    "folders":
+    [
+        {
+            "path": "../goutils",
+            "file_exclude_patterns": ["win*","*.sublime*",".*","tags"]
+        }
+    ]
+}
