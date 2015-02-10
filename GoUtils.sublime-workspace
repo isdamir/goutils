@@ -519,6 +519,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "maps.go",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "operator.go",
+			"settings":
+			{
+				"buffer_size": 9911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "slice.go",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "time.go",
+			"settings":
+			{
+				"buffer_size": 2936,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -793,6 +825,10 @@
 	},
 	"file_history":
 	[
+		"/Users/damir/Code/go/src/github.com/isdamir/goutils/strings.go",
+		"/Users/damir/Code/go/src/github.com/isdamir/goutils/structs.go",
+		"/Users/damir/Code/go/src/github.com/isdamir/goutils/hex/hexutil.go",
+		"/Users/damir/Code/go/src/github.com/isdamir/goutils/GoUtils.sublime-project",
 		"/Users/damir/Code/go/src/github.com/isdamir/gospeed/utils/time.go",
 		"/Users/damir/Code/go/src/github.com/isdamir/gospeed/.travis.yml",
 		"/Users/damir/Code/go/src/github.com/isdamir/gospeed/config/config.go",
@@ -916,11 +952,7 @@
 		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.SharedComponent/Moudle/RibbonMenu.xaml",
 		"/E/devTool/arduino-1.0.5/libraries/AccelStepper/AccelStepper.h",
 		"/E/code/Arduino/RobotHand/RobotHand.ino",
-		"/E/Cygwin/home/Damir/.ssh/id_rsa.pub",
-		"/E/devTool/arduino-1.0.5/libraries/AccelStepper/AccelStepper.cpp",
-		"/D/desktop/RobotHand14_3_1_ino/RobotHand14_3_1_ino.ino",
-		"/E/Cygwin/home/Damir/.ssh/config",
-		"/D/迅雷下载/我当道士那些年.txt"
+		"/E/Cygwin/home/Damir/.ssh/id_rsa.pub"
 	],
 	"find":
 	{
@@ -1261,8 +1293,129 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "maps.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "operator.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "slice.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "time.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1297,6 +1450,14 @@
 		]
 	},
 	"menu_visible": true,
+	"output.9o:///Users/damir/Code/go/src/github.com/isdamir/goutils":
+	{
+		"height": 94.0
+	},
+	"output.9o:///Users/damir/Code/go/src/github.com/isdamir/goutils/hex":
+	{
+		"height": 94.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
